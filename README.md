@@ -25,3 +25,10 @@
 * 
 * 
 * 
+
+* https://www.webcomponents.org/
+
+
+* https://github.com/parse-community
+* https://github.com/back4app
+* https://docs.parseplatform.org/android/guide/
