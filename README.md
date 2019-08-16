@@ -38,6 +38,22 @@
 
 
 
+Grav Theme
+https://getgrav.org/downloads/themes
+https://devlom.com/en/blog/hola-twoje-stylowe-portfolio-oparte-o-grav
+http://demo.devlom.com/grav/hola/
+https://github.com/devlom/grav-theme-hola/releases/tag/1.1.2
+https://getgrav.org/downloads/skeletons
+http://rubikazariah.com/a-non-coders-take-on-grav/
+https://themes.gohugo.io/
+http://getgrav.grav.netdna-cdn.com/downloads/skeletons
+https://www.tutorialspoint.com/grav/grav_themes_basics.htm
+https://startbootstrap.com/themes/freelancer/
+https://learn.getgrav.org/16/advanced/grav-development
+https://learn.getgrav.org/16/cookbook/tutorials/create-a-blog
+
+
+
 # Tools and IDEs
 * adobe xd             -     https://www.adobe.com/in/products/xd.html
 * google web designer  -     https://www.google.com/webdesigner/
