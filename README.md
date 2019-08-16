@@ -93,3 +93,31 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+
+
+# React & React-Native
+* https://medium.com/@coderacademy/32-sites-built-with-reactjs-172e3a4bed81
+* https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
+* https://reactjs.org/
+* http://www.reactnative.com/
+* https://reactjs.org/docs/add-react-to-a-website.html
+* https://create-react-app.dev/docs/getting-started
+
+# React vs React-Native
+* https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
+* https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/
+* 
+* 
+* 
+* 
+* 
+
+# React & React-Native
+* https://medium.com/react-native-training/sharing-code-between-react-web-and-react-native-applications-7f451af26378
+* 
+* 
+* 
+* 
+* 
+
+
