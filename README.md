@@ -82,14 +82,10 @@ https://learn.getgrav.org/16/cookbook/tutorials/create-a-blog
 * https://bootstraptaste.com/
 * https://bootsnipp.com/
 * https://bootstrapstudio.io/
+* https://themes.3rdwavemedia.com/
 * 
 * 
 * 
-* 
-
-
-
-
 
 
 https://www.styleshout.com/
@@ -104,11 +100,6 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://codesandbox.io/
 * 
 * 
-* 
-* 
-* 
-* 
-
 
 
 # React & React-Native
