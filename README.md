@@ -53,7 +53,6 @@ https://learn.getgrav.org/16/advanced/grav-development
 https://learn.getgrav.org/16/cookbook/tutorials/create-a-blog
 
 
-
 # Tools and IDEs
 * adobe xd             -     https://www.adobe.com/in/products/xd.html
 * google web designer  -     https://www.google.com/webdesigner/
@@ -66,7 +65,6 @@ https://learn.getgrav.org/16/cookbook/tutorials/create-a-blog
 * https://www.sketchup.com/
 * 
 * 
-
 
 
 # Bootstrap
@@ -87,10 +85,8 @@ https://learn.getgrav.org/16/cookbook/tutorials/create-a-blog
 * 
 * 
 
-
 https://www.styleshout.com/
 https://www.styleshout.com/free-templates/ceevee/
-
 
 
 # Online Editor
@@ -101,10 +97,6 @@ https://www.styleshout.com/free-templates/ceevee/
 * http://todomvc.com/
 * 
 * 
-* 
-* 
-
-
 
 # React & React-Native
 * https://medium.com/@coderacademy/32-sites-built-with-reactjs-172e3a4bed81
@@ -132,3 +124,15 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 
 
+# How to deploy a React app to a subdirectory
+* https://medium.com/@svinkle/how-to-deploy-a-react-app-to-a-subdirectory-f694d46427c1
+
+# Adding a Root Route Using React Router and IndexRoute
+* http://www.hackingwithreact.com/read/1/25/adding-a-root-route-using-react-router-and-indexroute
+
+# Using React-Router with a layout page or multiple components per page
+* https://stackoverflow.com/questions/33062830/using-react-router-with-a-layout-page-or-multiple-components-per-page
+
+# React File Structure
+* https://reactjs.org/docs/faq-structure.html
+* https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
