@@ -159,6 +159,8 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+# Creating truly universal React component systems (React & React-Native component sharing topic)
+* https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7
 
 # How to deploy a React app to a subdirectory
 * https://medium.com/@svinkle/how-to-deploy-a-react-app-to-a-subdirectory-f694d46427c1
