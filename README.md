@@ -193,6 +193,14 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+# React-router problem with gh-pages
+* https://medium.com/@Dragonza/react-router-problem-with-gh-pages-c93a5e243819
+* https://levelup.gitconnected.com/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2
+* https://www.codementor.io/louisdante9/how-i-learned-deploying-react-router-app-to-gh-pages-orq146eym
+* 
+* 
+* 
+
 # Multiple Github Custom Domains
 * http://blog.teracy.com/2013/08/08/multiple-github-custom-domains/
 * https://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages
