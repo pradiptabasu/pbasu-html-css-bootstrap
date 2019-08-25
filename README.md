@@ -20,9 +20,37 @@
 * https://github.com/sahat/hackathon-starter
 * jumbotron mobile bootstrap
 * 
-* 
 * Node.js Express Flash
+* 
+* 
 
+# Bootstrap without jQuery
+* https://www.sitepoint.com/use-bootstrap-components-without-jquery/
+* https://github.com/tagawa/bootstrap-without-jquery
+* 
+* 
+* 
+
+# Parallax
+* https://dev.to/flexdinesh/i-re-wrote-my-portfolio-and-added-some-magic-22n7
+* https://codepen.io/flexdinesh/full/GxNazP/
+* https://materializecss.com/
+* 
+* 
+* 
+* 
+
+# Adaptive CSS to set A4 paper size
+* https://codepen.io/rafaelcastrocouto/pen/LFAes
+* https://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size
+* https://stackoverflow.com/questions/45544221/responsive-a4-css-code
+* https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
+* https://www.tutorialspoint.com/css/css_paged_media.htm
+* https://micropyramid.com/blog/export-html-web-page-to-pdf-using-jspdf/
+* 
+* 
+* 
+* 
 * 
 * 
 * 
@@ -35,10 +63,8 @@
 * https://github.com/back4app
 * https://docs.parseplatform.org/android/guide/
 
-
 # How to Replace Text with CSS
 * https://blog.escapecreative.com/how-to-replace-text-with-css/
-
 
 # Primitive CSS
 * https://taniarascia.github.io/primitive/
@@ -49,26 +75,11 @@
 * https://madewithreact.com/rebass-react-primitive-ui-components/
 * https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
 * 
-* 
-* 
-* 
-
 
 # UI-BOX: Blazing Fast React UI Primitive 
 * https://github.com/segmentio/ui-box
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-
-
 
 # Grav Theme
 https://getgrav.org/downloads/themes
@@ -229,11 +240,9 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://codesandbox.io/s/8z07zjomjj
 * https://medium.com/@stupid_arnob/create-pdf-with-react-and-jspdf-e603cfe5dd97
 * https://jsfiddle.net/someatoms/0L98kj1q/
+* https://micropyramid.com/blog/export-html-web-page-to-pdf-using-jspdf/
 * 
-* 
-* 
-* 
-* 
+ 
 
 # 19 Best React UI Component Libraries / Frameworks for 2019
 * https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
@@ -270,6 +279,4 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://www.saltycrane.com/flow-type-cheat-sheet/latest/
 * 
 * 
-* 
-* 
-* 
+
