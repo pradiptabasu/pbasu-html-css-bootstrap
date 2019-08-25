@@ -55,6 +55,14 @@
 * 
 * 
 
+# Google APIs - Fonts, jQuery, CSS Tricks
+* https://developers.google.com/speed/libraries/
+* https://fonts.google.com/
+* https://blog.logrocket.com/how-to-use-web-fonts-in-css-a0326f4d6a4d/
+* https://css-tricks.com/snippets/css/basics-of-google-font-api/
+* https://developers.google.com/fonts/docs/getting_started
+* 
+* 
 
 # Styling UI Components from Scratch: Buttons & Forms
 * https://www.taniarascia.com/styling-ui-components-from-scratch-buttons-forms/
