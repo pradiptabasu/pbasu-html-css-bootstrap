@@ -141,6 +141,8 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://snack.expo.io/       (React JS + Native speciality)
 * https://www.katacoda.com/ 
 * https://codesandbox.io/
+* https://glitch.com/
+* https://web.dev/
 *
 * 
 
