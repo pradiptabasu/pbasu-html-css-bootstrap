@@ -27,6 +27,24 @@
 
 * https://webpack.js.org/
 
+
+# Favicon
+* https://icons8.com/icons/set/favicon
+* https://www.favicon-generator.org/
+* https://fontawesome.com/icons?d=gallery
+* https://realfavicongenerator.net/
+* https://favicon.io/
+* https://www.123rf.com/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
 # Bootstrap without jQuery
 * https://www.sitepoint.com/use-bootstrap-components-without-jquery/
 * https://github.com/tagawa/bootstrap-without-jquery
