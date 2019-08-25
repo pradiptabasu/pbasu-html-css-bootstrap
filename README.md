@@ -261,6 +261,17 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+# React Redux
+* https://medium.com/tkssharma/understanding-redux-react-in-easiest-way-part-1-81f3209fc0e5
+* https://medium.com/tkssharma/understanding-redux-react-in-easiest-way-part-2-live-app-bc950af9b3c3
+* https://www.valentinog.com/blog/redux/
+* https://daveceddia.com/redux-tutorial/
+* https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/
+* https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/
+* 
+* 
+* 
+
 # Multiple Github Custom Domains
 * http://blog.teracy.com/2013/08/08/multiple-github-custom-domains/
 * https://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages
