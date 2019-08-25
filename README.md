@@ -184,6 +184,13 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://reactjs.org/docs/faq-structure.html
 * https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
 
+# Deploying React Applications to Github Pages
+* https://www.npmjs.com/package/gh-pages
+* https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a
+* https://www.thinkful.com/learn/a-guide-to-using-github-pages/
+* https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
+* 
+* 
 
 # 19 Best React UI Component Libraries / Frameworks for 2019
 * https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
