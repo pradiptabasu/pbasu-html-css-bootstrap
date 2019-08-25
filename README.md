@@ -196,6 +196,7 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
 
 # React Router
+* https://flaviocopes.com/react-router/
 * https://www.codingame.com/playgrounds/6517/react-router-tutorial
 * https://www.youtube.com/watch?v=1iAG6h9ff5s
 * https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
@@ -203,7 +204,6 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://reacttraining.com/react-router/web/example/basic
 * https://www.sitepoint.com/react-router-v4-complete-guide/
 * https://itnext.io/the-easiest-tutorial-on-react-router-v4-youll-ever-find-build-a-single-page-application-in-44c453f4123b
-* https://flaviocopes.com/react-router/
 * 
 * 
 * 
