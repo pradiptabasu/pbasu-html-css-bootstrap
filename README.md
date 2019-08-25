@@ -129,7 +129,7 @@ https://www.styleshout.com/free-templates/ceevee/
 * http://todomvc.com/
 * https://snack.expo.io/       (React JS + Native speciality)
 * https://www.katacoda.com/ 
-*
+* https://codesandbox.io/
 *
 * 
 
@@ -218,6 +218,20 @@ https://www.styleshout.com/free-templates/ceevee/
 * http://blog.teracy.com/2013/08/08/multiple-github-custom-domains/
 * https://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages
 * https://stackoverflow.com/questions/15563685/can-i-create-more-than-one-repository-for-github-pages
+* 
+* 
+
+# pdf from web page in react
+* https://medium.com/@shivekkhurana/how-to-create-pdfs-from-react-components-client-side-solution-7f506d9dfa6d
+* https://bestofjs.org/projects/jspdf
+* https://www.npmjs.com/package/jspdf
+* https://www.npmjs.com/package/jspdf-react
+* https://codesandbox.io/s/8z07zjomjj
+* https://medium.com/@stupid_arnob/create-pdf-with-react-and-jspdf-e603cfe5dd97
+* https://jsfiddle.net/someatoms/0L98kj1q/
+* 
+* 
+* 
 * 
 * 
 
