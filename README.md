@@ -69,6 +69,7 @@
 
 # CSS Fonts
 * https://www.cssfontstack.com/
+* https://fontawesome.com/
 
 # Styling UI Components from Scratch: Buttons & Forms
 * https://www.taniarascia.com/styling-ui-components-from-scratch-buttons-forms/
