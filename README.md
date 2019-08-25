@@ -159,6 +159,15 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+# Functional vs Class-Components in React
+* https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108
+* https://guide.freecodecamp.org/react-native/functional-vs-class-components/
+* https://programmingwithmosh.com/react/react-functional-components/
+* https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909
+* https://react.christmas/2017/16
+* 
+
+
 # Creating truly universal React component systems (React & React-Native component sharing topic)
 * https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7
 
