@@ -191,6 +191,14 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
 * 
 * 
+* 
+
+# Multiple Github Custom Domains
+* http://blog.teracy.com/2013/08/08/multiple-github-custom-domains/
+* https://webapps.stackexchange.com/questions/42455/publishing-more-than-one-site-on-github-pages
+* https://stackoverflow.com/questions/15563685/can-i-create-more-than-one-repository-for-github-pages
+* 
+* 
 
 # 19 Best React UI Component Libraries / Frameworks for 2019
 * https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
