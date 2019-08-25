@@ -151,14 +151,10 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/
 * 
 * 
-* 
-* 
-* 
+
 
 # React & React-Native
 * https://medium.com/react-native-training/sharing-code-between-react-web-and-react-native-applications-7f451af26378
-* 
-* 
 * 
 * 
 * 
@@ -177,6 +173,30 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://reactjs.org/docs/faq-structure.html
 * https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
 
+
+# 19 Best React UI Component Libraries / Frameworks for 2019
+* https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
+* Material Kit React
+* Material-UI
+* React Bootstrap
+* React Virtualized
+* Blueprint
+* Semantic UI React
+* React Toolbox
+* React Desktop
+* Onsen UI
+* Evergreen
+* Reactstrap
+* Rebass
+* Grommet
+* Elemental UI
+* RSUITE
+* Belle
+* React-md
+* PrimeReact
+* KendoReact
+* 
+*
 
 
 # flow-typed
