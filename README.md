@@ -184,6 +184,19 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://reactjs.org/docs/faq-structure.html
 * https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
 
+# React Router
+* https://www.codingame.com/playgrounds/6517/react-router-tutorial
+* https://www.youtube.com/watch?v=1iAG6h9ff5s
+* https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+* https://codeburst.io/getting-started-with-react-router-5c978f70df91
+* https://reacttraining.com/react-router/web/example/basic
+* https://www.sitepoint.com/react-router-v4-complete-guide/
+* https://itnext.io/the-easiest-tutorial-on-react-router-v4-youll-ever-find-build-a-single-page-application-in-44c453f4123b
+* https://flaviocopes.com/react-router/
+* 
+* 
+* 
+
 # Deploying React Applications to Github Pages
 * https://www.npmjs.com/package/gh-pages
 * https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a
