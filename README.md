@@ -28,6 +28,9 @@
 * 
 
 
+# Styling UI Components from Scratch: Buttons & Forms
+* https://www.taniarascia.com/styling-ui-components-from-scratch-buttons-forms/
+
 * https://github.com/parse-community
 * https://github.com/back4app
 * https://docs.parseplatform.org/android/guide/
@@ -37,8 +40,37 @@
 * https://blog.escapecreative.com/how-to-replace-text-with-css/
 
 
+# Primitive CSS
+* https://taniarascia.github.io/primitive/
+* https://github.com/taniarascia/primitive
+* https://snack.expo.io/r1XgaohG-
+* https://snack.expo.io/r1XgaohG-
+* https://assetstore.unity.com/packages/tools/gui/primitive-ui-45996
+* https://madewithreact.com/rebass-react-primitive-ui-components/
+* https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
+* 
+* 
+* 
+* 
 
-Grav Theme
+
+# UI-BOX: Blazing Fast React UI Primitive 
+* https://github.com/segmentio/ui-box
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+# Grav Theme
 https://getgrav.org/downloads/themes
 https://devlom.com/en/blog/hola-twoje-stylowe-portfolio-oparte-o-grav
 http://demo.devlom.com/grav/hola/
@@ -95,16 +127,24 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://codepen.io/
 * https://codesandbox.io/
 * http://todomvc.com/
-* 
+* https://snack.expo.io/       (React JS + Native speciality)
+* https://www.katacoda.com/ 
+*
+*
 * 
 
 # React & React-Native
+* https://scotch.io/starters/react/getting-started-with-react-2019-edition
+* https://www.sitepoint.com/getting-started-react-beginners-guide/
+* https://www.freecodecamp.org/news/everything-you-need-to-know-to-get-started-in-react-11311ae997cb/
+* https://facebook.github.io/react-native/docs/props.html
 * https://medium.com/@coderacademy/32-sites-built-with-reactjs-172e3a4bed81
 * https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
 * https://reactjs.org/
 * http://www.reactnative.com/
 * https://reactjs.org/docs/add-react-to-a-website.html
 * https://create-react-app.dev/docs/getting-started
+
 
 # React vs React-Native
 * https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
@@ -136,3 +176,19 @@ https://www.styleshout.com/free-templates/ceevee/
 # React File Structure
 * https://reactjs.org/docs/faq-structure.html
 * https://www.freecodecamp.org/news/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92/
+
+
+
+# flow-typed
+* https://github.com/flow-typed/flow-typed
+* https://flow.org/en/docs/frameworks/react/
+* https://pusher.com/tutorials/type-check-react-flow
+* https://hackernoon.com/building-a-modern-react-js-app-with-flow-876ff829a5cd
+* https://www.freecodecamp.org/news/incrementally-add-flow-type-checking-react-261fee015f80/
+* https://reactjs.org/docs/static-type-checking.html
+* https://www.saltycrane.com/flow-type-cheat-sheet/latest/
+* 
+* 
+* 
+* 
+* 
