@@ -274,7 +274,7 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://daveceddia.com/redux-tutorial/
 * https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/
 * https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/
-* 
+* https://github.com/buckyroberts/React-Redux-Boilerplate
 * 
 * 
 
