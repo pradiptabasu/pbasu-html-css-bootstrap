@@ -63,6 +63,10 @@
 
 # Adaptive CSS to set A4 paper size
 * https://codepen.io/rafaelcastrocouto/pen/LFAes
+* https://codepen.io/dermotmcguire/pen/ZbQWWz
+* https://codepen.io/rafaelcastrocouto/full/LFAes
+* https://codepen.io/inkovic/full/qEXJpo
+* https://blog.codepen.io/documentation/views/full-page-view/
 * https://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size
 * https://stackoverflow.com/questions/45544221/responsive-a4-css-code
 * https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
