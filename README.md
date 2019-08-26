@@ -24,7 +24,7 @@
 * 
 * 
 
-
+* https://egghead.io/
 * https://webpack.js.org/
 
 
@@ -262,6 +262,8 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 
 # React Redux
+* https://egghead.io/lessons/react-redux-passing-the-store-down-with-provider-from-react-redux
+* https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
 * https://medium.com/tkssharma/understanding-redux-react-in-easiest-way-part-1-81f3209fc0e5
 * https://medium.com/tkssharma/understanding-redux-react-in-easiest-way-part-2-live-app-bc950af9b3c3
 * https://www.valentinog.com/blog/redux/
@@ -289,7 +291,36 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://jsfiddle.net/someatoms/0L98kj1q/
 * https://micropyramid.com/blog/export-html-web-page-to-pdf-using-jspdf/
 * 
- 
+
+# Progressive Web Apps with React.js  |  serviceWorker
+* https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12
+* https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c
+* https://github.com/googlechrome/lighthouse
+* https://create-react-app.dev/docs/making-a-progressive-web-app
+* https://www.freecodecamp.org/news/how-to-build-a-pwa-with-create-react-app-and-custom-service-workers-376bd1fdc6d3/
+* https://www.freecodecamp.org/news/how-to-customize-service-workers-with-create-react-app-4424dda6210c/
+* https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes
+* https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03
+* https://blog.bitsrc.io/build-progressive-web-apps-with-react-part-1-63f1fbc564a6
+* 
+* 
+* 
+
+# Capture click outside React component
+* https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-react-component-5604830beb7f
+* https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-with-react-hook-ba77c37c7e82
+* https://codepen.io/graubnla/pen/EgdgZm
+* 
+* 
+
+# How to pass state between components in reactjs  |  React.JS — Component Data Transfer
+* https://dev.to/zeyadetman/how-to-pass-state-between-components-in-reactjs-2pg1
+* https://codeburst.io/react-js-pass-data-from-components-8965d7892ca2
+* https://flaviocopes.com/react-show-different-component-on-click/
+* https://www.freecodecamp.org/forum/t/updating-state-from-child-component-onclick/220848
+* http://react.tips/how-reactjs-components-communicate/
+* 
+* 
 
 # 19 Best React UI Component Libraries / Frameworks for 2019
 * https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
