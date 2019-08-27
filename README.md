@@ -382,3 +382,31 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+
+
+
+# Resume & Portfolio related
+* https://www.quora.com/What-are-the-best-free-CV-resume-templates-for-a-software-engineer
+* https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
+
+
+* crisboarna/react-cv
+	https://github.com/crisboarna/react-cv
+	https://crisboarna.github.io/react-cv/
+	
+* smhatre59/resumetemplate
+	https://github.com/smhatre59/resumetemplate
+	https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e
+	https://codeclassifiers.github.io/#about
+
+* https://github.com/crisboarna/portfolio-website
+* https://github.com/crisboarna/react-scroll-element
+* https://github.com/crisboarna/react-skillbars
+* https://github.com/crisboarna?tab=repositories
+	
+* https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d	
+* https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
+* https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e
+* https://dev.to/flexdinesh/i-re-wrote-my-portfolio-and-added-some-magic-22n7
+* https://medium.com/@stanleyfok/pdf-generation-with-react-componenets-using-next-js-at-server-side-ee9c2dea06a7
+
