@@ -24,6 +24,7 @@
 * 
 * 
 
+* https://assetstore.unity.com/
 * https://egghead.io/
 * https://webpack.js.org/
 
@@ -37,28 +38,17 @@
 * https://www.123rf.com/
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
 
 # Bootstrap without jQuery
 * https://www.sitepoint.com/use-bootstrap-components-without-jquery/
 * https://github.com/tagawa/bootstrap-without-jquery
 * 
-* 
-* 
+*  
 
 # Parallax
 * https://dev.to/flexdinesh/i-re-wrote-my-portfolio-and-added-some-magic-22n7
 * https://codepen.io/flexdinesh/full/GxNazP/
 * https://materializecss.com/
-* 
-* 
-* 
 * 
 
 # Adaptive CSS to set A4 paper size
@@ -72,12 +62,6 @@
 * https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
 * https://www.tutorialspoint.com/css/css_paged_media.htm
 * https://micropyramid.com/blog/export-html-web-page-to-pdf-using-jspdf/
-* 
-* 
-* 
-* 
-* 
-* 
 * 
 
 # Google APIs - Fonts, jQuery, CSS Tricks
@@ -294,6 +278,23 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://www.freecodecamp.org/news/how-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85/
 * https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/
 * https://github.com/buckyroberts/React-Redux-Boilerplate
+* 
+* 
+
+# React Redux & Router
+* https://redux.js.org/advanced/usage-with-react-router
+* https://reacttraining.com/react-router/web/guides/redux-integration
+* https://github.com/reactjs/react-router-redux
+* https://blog.logrocket.com/conquer-navigation-state-with-react-router-and-redux-f1beb9b8ea7c/
+* https://medium.com/@lavitr01051977/react-router-redux-app-with-call-to-api-70a324c34ecb
+* https://www.youtube.com/watch?v=xWfH143kV-0
+* https://www.youtube.com/watch?v=5Knp04GZAj8
+* https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
+* https://www.freecodecamp.org/news/an-introduction-to-the-redux-first-routing-model-98926ebf53cb/
+* http://manojsinghnegi.com/blog/2017/09/03/Implementing-redux-and-react-router-v4-in-your-react-app/
+* https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/
+* 
+* 
 * 
 * 
 
