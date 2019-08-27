@@ -268,6 +268,7 @@ https://www.styleshout.com/free-templates/ceevee/
 # Deploying React Applications to Github Pages
 * https://github.com/gitname/react-gh-pages
 * https://reactgo.com/deploy-react-app-github-pages/
+* https://create-react-app.dev/docs/deployment#github-pages-https-pagesgithubcom
 * https://www.npmjs.com/package/gh-pages
 * https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a
 * https://www.thinkful.com/learn/a-guide-to-using-github-pages/
