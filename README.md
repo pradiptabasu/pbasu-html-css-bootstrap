@@ -52,7 +52,6 @@
 * 
 
 # Adaptive CSS to set A4 paper size
-* https://codepen.io/rafaelcastrocouto/pen/LFAes
 * https://codepen.io/dermotmcguire/pen/ZbQWWz
 * https://codepen.io/rafaelcastrocouto/full/LFAes
 * https://codepen.io/inkovic/full/qEXJpo
@@ -130,6 +129,33 @@ https://learn.getgrav.org/16/cookbook/tutorials/create-a-blog
 * 
 * 
 
+# Online Editor
+* https://jsfiddle.net/
+* http://scratchpad.io/
+* https://codepen.io/
+* https://codesandbox.io/
+* http://todomvc.com/
+* https://snack.expo.io/       (React JS + Native speciality)
+* https://www.katacoda.com/ 
+* https://codesandbox.io/
+* https://glitch.com/
+* https://web.dev/
+* https://repl.it/
+* https://www.codechef.com/ide
+* https://ide.geeksforgeeks.org/
+* https://ide.codingblocks.com/
+* https://ideone.com/
+* https://playcode.io/
+* https://js.do/
+* https://jsbin.com/?html,output
+* https://stackblitz.com/
+* https://plnkr.co/
+* https://draftjs.org/
+* 
+* 
+* 
+* 
+* 
 
 # Bootstrap
 * https://getbootstrap.com/
@@ -153,19 +179,7 @@ https://www.styleshout.com/
 https://www.styleshout.com/free-templates/ceevee/
 
 
-# Online Editor
-* https://jsfiddle.net/
-* http://scratchpad.io/
-* https://codepen.io/
-* https://codesandbox.io/
-* http://todomvc.com/
-* https://snack.expo.io/       (React JS + Native speciality)
-* https://www.katacoda.com/ 
-* https://codesandbox.io/
-* https://glitch.com/
-* https://web.dev/
-*
-* 
+
 
 # React & React-Native
 * https://scotch.io/starters/react/getting-started-with-react-2019-edition
