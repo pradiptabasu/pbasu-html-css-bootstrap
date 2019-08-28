@@ -363,6 +363,34 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
+# React app hosting online
+* https://github.com/gitname/react-gh-pages
+* https://www.heroku.com/home
+* https://github.com/mars/create-react-app-buildpack
+* https://blog.heroku.com/deploying-react-with-zero-configuration
+* https://zeit.co/
+* https://render.com/
+* https://www.nodechef.com/reactjs-hosting   ------------->>>> VERY GOOD
+* https://blog.bitsrc.io/8-react-application-deployment-and-hosting-options-for-2019-ab4d668309fd
+* https://www.roast.io/
+* https://www.roast.io/for/react
+* https://dev.to/peterj/run-a-react-app-in-a-docker-container-kjn
+* https://medium.com/capgemini-norway/hosting-your-react-application-with-aws-in-30-minutes-623f6539d92d
+* https://medium.com/google-cloud/hosting-a-react-js-app-on-google-cloud-app-engine-6d1341b75d8c
+* https://devspace.cloud/blog/2019/03/07/deploy-react-js-to-kubernetes
+* https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/21/using-react-and-building-a-web-site-on-azure/
+* https://serverless-stack.com/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
 # 19 Best React UI Component Libraries / Frameworks for 2019
 * https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
 * Material Kit React
