@@ -322,7 +322,7 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * 
 
-# pdf from web page in react
+# pdf from web page in react |  Generate & View PDF in React
 * https://medium.com/@shivekkhurana/how-to-create-pdfs-from-react-components-client-side-solution-7f506d9dfa6d
 * https://bestofjs.org/projects/jspdf
 * https://www.npmjs.com/package/jspdf
@@ -331,6 +331,9 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://medium.com/@stupid_arnob/create-pdf-with-react-and-jspdf-e603cfe5dd97
 * https://jsfiddle.net/someatoms/0L98kj1q/
 * https://micropyramid.com/blog/export-html-web-page-to-pdf-using-jspdf/
+* https://www.pdftron.com/blog/react/how-to-build-a-react-pdf-viewer/
+* https://www.pdftron.com/blog/react/react-to-pdf/
+* 
 * 
 
 # Progressive Web Apps with React.js  |  serviceWorker
