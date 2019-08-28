@@ -472,3 +472,14 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://github.com/rjkokko/react-resume-component
 * http://www.christina-strobel.de/
 
+
+* https://github.com/deltaskelta/react-awesome-resume
+* https://github.com/udacity/frontend-nanodegree-resume
+* https://github.com/BlackrockDigital/startbootstrap-resume
+* https://github.com/salomonelli/best-resume-ever
+* https://github.com/AmirrezaNasiri/vue-modern-resume
+* Resume template based on Vue ----->>>>>		https://github.com/luosijie/vue-resume
+
+
+
+
