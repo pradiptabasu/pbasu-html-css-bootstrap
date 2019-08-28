@@ -458,3 +458,17 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://dev.to/flexdinesh/i-re-wrote-my-portfolio-and-added-some-magic-22n7
 * https://medium.com/@stanleyfok/pdf-generation-with-react-componenets-using-next-js-at-server-side-ee9c2dea06a7
 
+* https://resumake.io/
+* https://jsonresume.org/
+* https://github.com/sbayd/react-cv-template
+* https://github.com/raulfdm/cv
+* https://github.com/tbakerx/react-resume-template
+* https://mobilunity.com/blog/react-js-developer-resume/
+* https://blog.usejournal.com/lets-make-a-resume-in-react-2c9c5540f51a
+* https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e
+* https://react.rocks/example/React-Resume
+* https://simonsmith.io/cv/
+* https://www.npmjs.com/package/react-resume-component
+* https://github.com/rjkokko/react-resume-component
+* http://www.christina-strobel.de/
+
