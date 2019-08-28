@@ -497,5 +497,50 @@ https://www.styleshout.com/free-templates/ceevee/
 * Resume template based on Vue ----->>>>>		https://github.com/luosijie/vue-resume
 
 
+# Interactive Resume
+* http://machuiwen.github.io/interactive-resume/
+* https://github.com/machuiwen/interactive-resume
+
+# Vue.js based portfolio
+* https://github.com/forestryio/portfolio-vuepress
+* https://github.com/mtobeiyf/vuepress-homepage
+* https://github.com/yuneco/portfolio
+* https://github.com/emilsgulbis/portfolio
+* https://github.com/InventiStudio/portfolio
+* https://github.com/imartic/vue-cv
+* https://github.com/imartic/portfolio
+* https://github.com/imartic/imartic.github.io
+* https://github.com/alainperrier/portfolio-2018
+* https://github.com/sandi-racy/vue-cosmic-portfolio
+* https://github.com/sandi-racy/sandi-racy.github.io
+* https://github.com/jkeener/vue-portfolio
+* https://github.com/EldinZaimovic/Eldin-Space-Vue
+* https://eldin.space/resume
+* https://github.com/manniL/lichter.io
+* https://github.com/Olena-Stotska/portfolio-on-vuejs
+* https://github.com/becolomochi/shirokuma
+* https://github.com/yamanoku/vue_portfolio_template
+* https://github.com/hotehrud/portfolio-vue
+* 
+
+# React.js based portfolio
+* https://github.com/tsurupin/portfolio
+* https://github.com/paulhanna1933/react-portfolio
+* https://github.com/rbhatia46/React-Portfolio
+* https://github.com/caljrimmer/portfolio-redux-app
+* https://github.com/react-portfolio/react-portfolio
+* https://github.com/LekoArts/gatsby-starter-portfolio-cara
+* https://github.com/smakosh/gatsby-portfolio-dev
+* https://github.com/salomonelli/personal-portfolio
+* https://github.com/LekoArts/portfolio
+* https://github.com/sophiaciocca/react-portfolio
+* https://github.com/aviaryan/work
+* https://github.com/gabdorf/gabriel-adorf-portfolio
+* https://github.com/mukuljainx/portfolio-react-app
+* https://github.com/sgwilym/gwil-react-portfolio
+* 
+
+
+
 
 
