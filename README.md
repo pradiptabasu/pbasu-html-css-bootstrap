@@ -563,3 +563,33 @@ https://www.styleshout.com/free-templates/ceevee/
 
 
 
+# Image Slider for comparison:
+* sample - https://www.maartenschrader.com/video/
+* https://www.hongkiat.com/blog/js-image-comparison-sliders/
+* https://zurb.com/playground/twentytwenty
+* https://www.jqueryscript.net/other/Image-Comparison-Slider-jQuery-beforeAfter.html
+* https://codyhouse.co/gem/css-jquery-image-comparison-slider
+* React Compare Slider
+* https://www.npmjs.com/package/react-compare-slider
+* https://reactjsexample.com/simple-react-component-to-compare-two-images-using-slider/
+* https://www.webcomponents.org/element/img-comparison-slider
+* https://wiki.fluidproject.org/display/C2LC/React+Component+Library+Comparison
+* https://morioh.com/p/b6765e96663f
+* https://libraries.io/npm/react-compare-image
+* https://freefrontend.com/css-sliders/
+* https://www.w3schools.com/howto/howto_js_image_comparison.asp
+* https://www.npmjs.com/package/ng-juxtapose
+* http://tinesoft.github.io/ng-juxtapose/
+* https://ourcodeworld.com/articles/read/263/top-5-best-before-and-after-image-comparison-slider-jquery-and-javascript-plugins
+* https://vuejsexamples.com/tag/slider/
+* https://madewithvuejs.com/blog/top-vue-js-slider-components
+* https://freefrontend.com/jquery-image-comparison-plugins/
+* 
+* https://matthiashager.com/image-slider-vuejs-tutorial
+* https://github.com/deulos/vue-flux
+
+
+# Demo Vueflux image transitions
+* https://deulos.github.io/vue-flux-docs/demos/#vueflux-transitions
+
+
