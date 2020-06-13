@@ -587,6 +587,20 @@ https://www.styleshout.com/free-templates/ceevee/
 * 
 * https://matthiashager.com/image-slider-vuejs-tutorial
 * https://github.com/deulos/vue-flux
+* 
+* 
+* https://mdbootstrap.com/docs/react/content/images/
+* https://mdbootstrap.com/docs/react/advanced/scroll/
+* https://medium.com/@ItsMeDannyZ/build-an-image-slider-with-react-es6-264368de68e4
+* https://smartslider3.com/blog/homepage-slider-examples/
+* https://mobirise.com/bootstrap-carousel/
+* 
+* 
+* 
+* 
+* 
+* 
+
 
 
 # Demo Vueflux image transitions
