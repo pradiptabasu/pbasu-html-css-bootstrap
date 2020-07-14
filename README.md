@@ -607,3 +607,47 @@ https://www.styleshout.com/free-templates/ceevee/
 * https://deulos.github.io/vue-flux-docs/demos/#vueflux-transitions
 
 
+
+
+
+* Resume Portfolio Website
+* Resume Portfolio Website wordpress
+* Resume Portfolio Website javascript
+* Resume Portfolio Website nodejs
+* Resume Portfolio Website react
+* Resume Portfolio Website angular
+* Resume Portfolio Website vue
+* https://www.youtube.com/watch?v=dgKSqz3it50					Complete Portfolio Website with Bootstrap - HTML/CSS
+* https://www.youtube.com/watch?v=ZZOlqX_772k					Personal Portfolio Website Design using HTML, CSS, JAVASCRIPT
+* https://www.youtube.com/watch?v=m7UzX3_N2Dc					Node & Express JS Tutorial - Resume Website
+* https://www.youtube.com/watch?v=ONqgNVWJ-Dw					#1 Personal Portfolio Complete Website using only Html Css Javascript
+* https://www.youtube.com/watch?v=yX8Fsvx2jB4					Build a Resume Website With Node.js
+* https://www.youtube.com/watch?v=zQmS31V0iaM					How to Create a Personal Resume/Portfolio Website
+* https://www.youtube.com/watch?v=qCFN8EujbGI					How To Make A Website Using HTML And CSS Step By Step Complete Website Resume CV Design
+* https://www.youtube.com/watch?v=TXAkP4WQVXY&t=171s			How to Create and Deploy a Portfolio Site in less than 30 Minutes
+* https://www.youtube.com/watch?v=afCjUsXtAtE					BUILD YOUR FIRST PORTFOLIO SITE with Gatsby.js (TUTORIAL)
+* https://www.youtube.com/watch?v=gYzHS-n2gqU					Responsive Portfolio Website [1] - Intro & Sass Workflow Setup
+* https://www.youtube.com/watch?v=u-RLu_8kwA0					How to Create & Host a Portfolio in 10 minutes with Github pages!
+* https://www.youtube.com/watch?v=1Prw90PRiJE					How to Create a Personal / Portfolio Website | 2019   (Wordpress & Parallax)
+* https://www.youtube.com/watch?v=k89DkBB-49s					How to Create a Personal / Portfolio Website | 2020 Step-By-Step Guide!
+* https://www.youtube.com/watch?v=AJjGCzrFz3Y					[Easy Steps] How to Make a Personal Portfolio / Resume Website 2020 | Wordpress Elementor Tutorial
+* https://www.youtube.com/watch?v=JJDGIkFp5ag					Create a Responsive Personal Portfolio Website With HTML CSS JavaScript & Bootstrap | Resume Website
+* https://www.youtube.com/watch?v=EGgqdSlp04k					How To Create Personal Portfolio Website with WordPress
+* https://www.youtube.com/watch?v=R6Kdw-0BEaQ					How to Make a Resumé Website in WordPress
+* https://www.youtube.com/watch?v=a8YuLQYr4n4					[A-Z] How to Create a PERSONAL PORTFOLIO WordPress Website 2020 | Elementor Tutorial
+* https://www.youtube.com/watch?v=C_TYCdq9VZo					10 Best Website Templates for Your Online Portfolio [2020]
+* https://www.youtube.com/watch?v=hGSS1cCgFfw					5 Best Free Resume Builder Website !!
+* https://www.youtube.com/watch?v=dgKSqz3it50					Complete Portfolio Website with Bootstrap - HTML/CSS
+* https://www.youtube.com/watch?v=ZZOlqX_772k					Personal Portfolio Website Design using HTML, CSS, JAVASCRIPT
+* https://www.youtube.com/watch?v=KgRENOnSCxE					How To Create A Complete Personal Portfolio Website Just using HTML And CSS | Pure HTML And CSS
+* https://www.youtube.com/watch?v=R7aM6s-x1c0					TOP 5 STUNNING PORTFOLIO WEBSITES: Inspiration for portfolio website
+* https://www.youtube.com/watch?v=lGZWjvQ3vbc					How to Make a Resume Website
+* https://www.youtube.com/watch?v=JJDGIkFp5ag					Create a Responsive Personal Portfolio Website With HTML CSS JavaScript & Bootstrap | Resume Website	
+* https://www.youtube.com/watch?v=l4o2ZU7gO8U					#1 Personal Portfolio Complete Website using only Html Css Javascript
+* https://www.youtube.com/watch?v=ONqgNVWJ-Dw					#1 Personal Portfolio Complete Website using only Html Css Javascript
+* https://www.youtube.com/watch?v=72tEphK0WAU					Personal Portfolio Website Design using HTML, CSS, and JavaScript
+* https://www.youtube.com/watch?v=gKMYZi4j_YU					10 Resources For Free Website & Web App Themes
+* 
+* 
+
+
